@@ -60,13 +60,13 @@ int main()
 	int a = 3, b = 92; // діапазон
 
 	Random(r, n, a, b);
-	Print(r, n);
-
+	cout << "Before = ";  Print(r, n);
+	
 	cout << "count = " << Count(r, n) << "\n";
 	cout << "S = " << Sum(r, n) << "\n";
 
 	Replace(r, n);
-	Print(r, n);
+	cout << "After = "; Print(r, n);
 
 	return 0;
 }
