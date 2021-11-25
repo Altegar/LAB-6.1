@@ -8,8 +8,8 @@
 
 #include <iostream>
 #include <iomanip>
-#include <ctime> // аналог time.h в мові C
-#include <cstdlib> // заголовок стандартної бібліотеки загального призначення
+#include <ctime> //
+#include <cstdlib> //
 
 using namespace std;
 
