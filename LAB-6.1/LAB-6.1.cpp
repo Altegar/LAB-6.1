@@ -8,8 +8,8 @@
 
 #include <iostream>
 #include <iomanip>
-#include <ctime> //
-#include <cstdlib> //
+#include <ctime>
+#include <cstdlib>
 
 using namespace std;
 
