@@ -53,7 +53,7 @@ void Print(int* r, int n) // форматне виведення
 
 int main()
 {
-	srand((unsigned)time(0));
+	srand((unsigned)time(0)); // ініціалізація генератора випадкових чисел
 
 	const int n = 26; // поточна розмірність масиву n = 1..26
 	int r[n]; // заданий масив
